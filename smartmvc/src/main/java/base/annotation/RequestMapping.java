@@ -1,5 +1,5 @@
 package base.annotation;
-
+//git测试
 import java.lang.annotation.Retention;
 import java.lang.annotation.RetentionPolicy;
 /*
